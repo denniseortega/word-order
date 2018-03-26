@@ -12,6 +12,6 @@ $(document).ready(function() {
       } else{}
     });
     longWords.reverse();
-    alert(longWords.join(' '));
+    alert(longWords.join(''));
   });
 });
