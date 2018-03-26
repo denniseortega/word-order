@@ -6,7 +6,7 @@
 
 ## Description
 
-_A form that splits a sentence, reverses the order and joins it back together._
+_A form that tests a block of text and returns a list of all the unique words._
 
 ## Setup/Installation Requirements
 
